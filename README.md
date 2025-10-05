@@ -2,7 +2,7 @@
 
 A simple and responsive landing page built with **HTML, CSS, and JavaScript**.
 
-🔗 **Live Demo:** [View Here]( profound-smakager-48e7ba.netlify.app)
+🔗 **Live Demo:** [View Here](https://profound-smakager-48e7ba.netlify.app/)
 
 ---
 
